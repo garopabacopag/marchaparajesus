@@ -11287,4 +11287,8 @@ textarea.form-control-lg {
   background-color: rgba(0, 0, 0, 0.6);
 }
 
+.hbspt-form .hs_submit .hs-button {
+  background-color: #0A9596 !important;
+}
+
 /*# sourceMappingURL=style.css.map */
