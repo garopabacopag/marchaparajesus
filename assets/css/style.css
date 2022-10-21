@@ -11243,7 +11243,7 @@ textarea.form-control-lg {
   color: #fff;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 #countdown-timer div {
@@ -11287,8 +11287,8 @@ textarea.form-control-lg {
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-.hbspt-form .hs_submit .hs-button {
-  background-color: #0A9596 !important;
+.hbspt-form {
+  margin-top: 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
